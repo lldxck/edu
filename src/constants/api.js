@@ -1,0 +1,22 @@
+export default {
+    LOGIN: '/edu/login',
+    LOGIN_OUT: '/edu/logout',
+    USER_MENU: '/edu/user/menu',
+    USER_LIST: '/edu/user/list',
+    USER_SAVE: '/edu/user/save',
+    USER_UPDATE: '/edu/user/update',
+    USER_DELETE: '/edu/user/delete',
+    SETROLES: '/edu/user/setRoles',
+    FINDROLESBYUID: '/edu/user/findRolesByUid',
+    ROLE_LIST: '/edu/role/list',
+    ROLE_SAVE: '/edu/role/save',
+    ROLE_UPDATE: '/edu/role/update',
+    ROLE_DELETE: '/edu/role/delete',
+    ROLE_GETPERMISSIONBYROLEID: '/edu/role/getPermssionByRoleId',
+    ROLE_SETPERMISSIONS: '/edu/role/setPermissions',
+    PERMISSION_LIST: '/edu/permission/list',
+    PERMISSION_SAVE: '/edu/permission/save',
+    PERMISSION_UPDATE: '/edu/permission/update',
+    PERMISSION_DELETE: '/edu/permission/delete',
+
+}
